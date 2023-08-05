@@ -12,11 +12,11 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin-top: 100px;
+    margin-top: 90px;
 }
 
 section {
-    margin-top: 126px;
+    margin-top: 30px;
 }
 
 .titulo {
@@ -63,5 +63,15 @@ button {
 
 button:hover{
     opacity: .8;
+}
+
+.numero-gerado{
+    margin-top: 30px;
+}
+
+.numero{
+    color: #AEC346;
+    font-size: 80px;
+    font-weight: 700;
 }
 
