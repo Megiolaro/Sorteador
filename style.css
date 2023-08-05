@@ -75,3 +75,15 @@ button:hover{
     font-weight: 700;
 }
 
+@media (max-width: 800px) {
+    .imagem{
+        width: 80%;
+    }
+
+    .input{
+        display: block;
+        margin: 10px auto;
+
+    }
+}
+
